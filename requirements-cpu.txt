@@ -1,0 +1,14 @@
+rich
+click
+loguru
+numpy
+pandas
+pyzmq
+jinja2
+fastapi
+python-multipart
+uvicorn
+websockets
+torch 
+torchvision 
+opencv-python
